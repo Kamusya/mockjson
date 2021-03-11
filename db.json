@@ -1,5 +1,5 @@
 {
-  ["posts"
+  "posts"[
   {
   "username": "kam",
   "email": "kam@gmail.com",
@@ -15,7 +15,8 @@
   "id": 101
   }]
   
-  ["comments"{
+  "comments"[
+  {
   "username": "kam",
   "email": "kam@gmail.com",
   "password": "Qqwerty1!",
@@ -30,7 +31,7 @@
   "id": 101
   }]
   
-  ["albums" {
+  "albums" [{
   "username": "kam",
   "email": "kam@gmail.com",
   "password": "Qqwerty1!",
@@ -45,7 +46,7 @@
   "id": 101
   }]
 
-  ["users"{
+  "users"[{
   "username": "kam",
   "email": "kam@gmail.com",
   "password": "Qqwerty1!",
@@ -59,7 +60,8 @@
   "password2": "Qqwerty1!",
   "id": 101
   }]
-  ["todos"{
+
+  "todos"[{
   "username": "kam",
   "email": "kam@gmail.com",
   "password": "Qqwerty1!",
