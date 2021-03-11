@@ -6,14 +6,15 @@
   "password": "Qqwerty1!",
   "password2": "Qqwerty1!",
   "id": 101
-  }
+  },
   {
   "username": "kam",
   "email": "kam@gmail.com",
   "password": "Qqwerty1!",
   "password2": "Qqwerty1!",
   "id": 101
-  }]
+  }
+],
   
   "comments"[
   {
@@ -22,14 +23,15 @@
   "password": "Qqwerty1!",
   "password2": "Qqwerty1!",
   "id": 101
-  }
+  },
   {
   "username": "kam",
   "email": "kam@gmail.com",
   "password": "Qqwerty1!",
   "password2": "Qqwerty1!",
   "id": 101
-  }]
+  }
+  ],
   
   "albums" [{
   "username": "kam",
@@ -37,14 +39,15 @@
   "password": "Qqwerty1!",
   "password2": "Qqwerty1!",
   "id": 101
-  }
+  },
   {
   "username": "kam",
   "email": "kam@gmail.com",
   "password": "Qqwerty1!",
   "password2": "Qqwerty1!",
   "id": 101
-  }]
+  }
+  ],
 
   "users"[{
   "username": "kam",
@@ -52,27 +55,30 @@
   "password": "Qqwerty1!",
   "password2": "Qqwerty1!",
   "id": 101
-  }
+  },
   {
   "username": "kam",
   "email": "kam@gmail.com",
   "password": "Qqwerty1!",
   "password2": "Qqwerty1!",
   "id": 101
-  }]
+  }
+         ],
 
-  "todos"[{
+  "todos"[
+    {
   "username": "kam",
   "email": "kam@gmail.com",
   "password": "Qqwerty1!",
   "password2": "Qqwerty1!",
   "id": 101
-  }
+  },
   {
   "username": "kam",
   "email": "kam@gmail.com",
   "password": "Qqwerty1!",
   "password2": "Qqwerty1!",
   "id": 101
-  }]
+  }
+  ]
 }
