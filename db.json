@@ -1,5 +1,5 @@
 {
-  "posts"[
+  "posts":[
   {
   "username": "kam",
   "email": "kam@gmail.com",
@@ -16,7 +16,7 @@
   }
 ],
   
-  "comments"[
+  "comments":[
   {
   "username": "kam",
   "email": "kam@gmail.com",
@@ -33,7 +33,7 @@
   }
   ],
   
-  "albums" [{
+  "albums": [{
   "username": "kam",
   "email": "kam@gmail.com",
   "password": "Qqwerty1!",
@@ -49,7 +49,7 @@
   }
   ],
 
-  "users"[{
+  "users":[{
   "username": "kam",
   "email": "kam@gmail.com",
   "password": "Qqwerty1!",
@@ -65,7 +65,7 @@
   }
          ],
 
-  "todos"[
+  "todos":[
     {
   "username": "kam",
   "email": "kam@gmail.com",
